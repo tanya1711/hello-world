@@ -7,3 +7,4 @@ https://www.codecademy.com/learn/learn-python
 https://learnpythonthehardway.org/book/
 
 hello from electrronix
+edit 1 tanya 
